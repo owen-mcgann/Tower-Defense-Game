@@ -1,0 +1,100 @@
+Geography|What is the capital of Alabama?|Montgomery
+Geography|Which state has Montgomery as its capital?|Alabama
+Geography|What is the capital of Alaska?|Juneau
+Geography|Which state has Juneau as its capital?|Alaska
+Geography|What is the capital of Arizona?|Phoenix
+Geography|Which state has Phoenix as its capital?|Arizona
+Geography|What is the capital of Arkansas?|Little Rock
+Geography|Which state has Little Rock as its capital?|Arkansas
+Geography|What is the capital of California?|Sacramento
+Geography|Which state has Sacramento as its capital?|California
+Geography|What is the capital of Colorado?|Denver
+Geography|Which state has Denver as its capital?|Colorado
+Geography|What is the capital of Connecticut?|Hartford
+Geography|Which state has Hartford as its capital?|Connecticut
+Geography|What is the capital of Delaware?|Dover
+Geography|Which state has Dover as its capital?|Delaware
+Geography|What is the capital of Florida?|Tallahassee
+Geography|Which state has Tallahassee as its capital?|Florida
+Geography|What is the capital of Georgia?|Atlanta
+Geography|Which state has Atlanta as its capital?|Georgia
+Geography|What is the capital of Hawaii?|Honolulu
+Geography|Which state has Honolulu as its capital?|Hawaii
+Geography|What is the capital of Idaho?|Boise
+Geography|Which state has Boise as its capital?|Idaho
+Geography|What is the capital of Illinois?|Springfield
+Geography|Which state has Springfield as its capital?|Illinois
+Geography|What is the capital of Indiana?|Indianapolis
+Geography|Which state has Indianapolis as its capital?|Indiana
+Geography|What is the capital of Iowa?|Des Moines
+Geography|Which state has Des Moines as its capital?|Iowa
+Geography|What is the capital of Kansas?|Topeka
+Geography|Which state has Topeka as its capital?|Kansas
+Geography|What is the capital of Kentucky?|Frankfort
+Geography|Which state has Frankfort as its capital?|Kentucky
+Geography|What is the capital of Louisiana?|Baton Rouge
+Geography|Which state has Baton Rouge as its capital?|Louisiana
+Geography|What is the capital of Maine?|Augusta
+Geography|Which state has Augusta as its capital?|Maine
+Geography|What is the capital of Maryland?|Annapolis
+Geography|Which state has Annapolis as its capital?|Maryland
+Geography|What is the capital of Massachusetts?|Boston
+Geography|Which state has Boston as its capital?|Massachusetts
+Geography|What is the capital of Michigan?|Lansing
+Geography|Which state has Lansing as its capital?|Michigan
+Geography|What is the capital of Minnesota?|Saint Paul
+Geography|Which state has Saint Paul as its capital?|Minnesota
+Geography|What is the capital of Mississippi?|Jackson
+Geography|Which state has Jackson as its capital?|Mississippi
+Geography|What is the capital of Missouri?|Jefferson City
+Geography|Which state has Jefferson City as its capital?|Missouri
+Geography|What is the capital of Montana?|Helena
+Geography|Which state has Helena as its capital?|Montana
+Geography|What is the capital of Nebraska?|Lincoln
+Geography|Which state has Lincoln as its capital?|Nebraska
+Geography|What is the capital of Nevada?|Carson City
+Geography|Which state has Carson City as its capital?|Nevada
+Geography|What is the capital of New Hampshire?|Concord
+Geography|Which state has Concord as its capital?|New Hampshire
+Geography|What is the capital of New Jersey?|Trenton
+Geography|Which state has Trenton as its capital?|New Jersey
+Geography|What is the capital of New Mexico?|Santa Fe
+Geography|Which state has Santa Fe as its capital?|New Mexico
+Geography|What is the capital of New York?|Albany
+Geography|Which state has Albany as its capital?|New York
+Geography|What is the capital of North Carolina?|Raleigh
+Geography|Which state has Raleigh as its capital?|North Carolina
+Geography|What is the capital of North Dakota?|Bismarck
+Geography|Which state has Bismarck as its capital?|North Dakota
+Geography|What is the capital of Ohio?|Columbus
+Geography|Which state has Columbus as its capital?|Ohio
+Geography|What is the capital of Oklahoma?|Oklahoma City
+Geography|Which state has Oklahoma City as its capital?|Oklahoma
+Geography|What is the capital of Oregon?|Salem
+Geography|Which state has Salem as its capital?|Oregon
+Geography|What is the capital of Pennsylvania?|Harrisburg
+Geography|Which state has Harrisburg as its capital?|Pennsylvania
+Geography|What is the capital of Rhode Island?|Providence
+Geography|Which state has Providence as its capital?|Rhode Island
+Geography|What is the capital of South Carolina?|Columbia
+Geography|Which state has Columbia as its capital?|South Carolina
+Geography|What is the capital of South Dakota?|Pierre
+Geography|Which state has Pierre as its capital?|South Dakota
+Geography|What is the capital of Tennessee?|Nashville
+Geography|Which state has Nashville as its capital?|Tennessee
+Geography|What is the capital of Texas?|Austin
+Geography|Which state has Austin as its capital?|Texas
+Geography|What is the capital of Utah?|Salt Lake City
+Geography|Which state has Salt Lake City as its capital?|Utah
+Geography|What is the capital of Vermont?|Montpelier
+Geography|Which state has Montpelier as its capital?|Vermont
+Geography|What is the capital of Virginia?|Richmond
+Geography|Which state has Richmond as its capital?|Virginia
+Geography|What is the capital of Washington?|Olympia
+Geography|Which state has Olympia as its capital?|Washington
+Geography|What is the capital of West Virginia?|Charleston
+Geography|Which state has Charleston as its capital?|West Virginia
+Geography|What is the capital of Wisconsin?|Madison
+Geography|Which state has Madison as its capital?|Wisconsin
+Geography|What is the capital of Wyoming?|Cheyenne
+Geography|Which state has Cheyenne as its capital?|Wyoming
